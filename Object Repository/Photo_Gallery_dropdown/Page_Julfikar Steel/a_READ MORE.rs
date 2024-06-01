@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_READ MORE</name>
+   <tag></tag>
+   <elementGuidId>6f481206-9160-4f53-bc3c-2d090eb9ef57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;READ MORE&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d613b06-51fd-459e-807f-762805f31238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>READ MORE</value>
+      <webElementGuid>c98a18e0-9add-4f72-9545-7d7d062fb53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>bookmark</value>
+      <webElementGuid>1ec93bf2-2db7-4c01-9bc8-ba158e8aa30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-button btnhover14</value>
+      <webElementGuid>348b1b41-2ee3-4de0-825f-b7d75a1e46e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/news</value>
+      <webElementGuid>3ee64e5e-b3a9-4b6d-9908-d9b14951b4d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>READ MORE</value>
+      <webElementGuid>ef0dcb71-5979-4d9f-aa2f-b8d85a2b08ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;page-wraper&quot;]/div[@class=&quot;page-content bg-white&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;section-full content-inner bg-white wow fadeIn&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;slick-slider blog-carousel btn-style-1 slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/div[@class=&quot;item&quot;]/div[@class=&quot;blog-post undefined&quot;]/div[@class=&quot;dlab-post-info&quot;]/div[@class=&quot;dlab-post-readmore&quot;]/a[@class=&quot;site-button btnhover14&quot;]</value>
+      <webElementGuid>85e4df0d-d173-40bd-93de-daf04f8978ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div[4]/a</value>
+      <webElementGuid>37829f29-7dcd-4ecd-8c8e-3a1b1ad909ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'READ MORE')])[2]</value>
+      <webElementGuid>da780c74-ff7d-4c31-8af6-2821656a80d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JSRM Limited, a concern of the JSRM Group lunched its highest c...'])[1]/following::a[1]</value>
+      <webElementGuid>c795bf4a-0202-4b38-b0b4-da239920f631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JSRM 1st brings DHR technology in Bangladesh.'])[1]/following::a[1]</value>
+      <webElementGuid>d89d252f-3ea0-4f05-b282-fe2e61220273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov 8th 22'])[1]/preceding::a[2]</value>
+      <webElementGuid>69ba5352-bc85-4aa6-95d9-1a33e4d844e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/news')])[3]</value>
+      <webElementGuid>0ef742f0-0fbd-4a21-b38a-b65809eefb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[4]/a</value>
+      <webElementGuid>32e08841-b327-4b37-8499-ef72c34a18c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'READ MORE' and @href = '/news' and (text() = 'READ MORE' or . = 'READ MORE')]</value>
+      <webElementGuid>7f868060-5a32-4e4f-9518-18cb6b89ff74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
